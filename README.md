@@ -2,11 +2,19 @@
 
 A repository with which to practice using git.
 
-### What is your name?
+## What is your name?
 
-> K. Elizabeth Sullivan
+> Kathleen Sullivan
 
 
-### What is your favorite color?
+## What is your favorite color?
 
 > Periwinkle
+
+## What is your favorite nonfiction book?
+
+>_Genie_
+
+## What is your favorite podcast besides _RadioLab_?
+
+>_99% Invisible_
