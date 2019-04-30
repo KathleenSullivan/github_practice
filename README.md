@@ -15,6 +15,6 @@ A repository with which to practice using git.
 
 >_Genie_
 
-## What is your favorite podcast besides _RadioLab_?
+## What is your favorite podcast besides _RadioLab_ and _More Perfect_?
 
->_99% Invisible_
+>_Lexicon Valley_
